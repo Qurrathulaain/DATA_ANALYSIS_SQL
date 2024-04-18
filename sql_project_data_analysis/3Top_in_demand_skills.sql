@@ -8,7 +8,7 @@ INNER JOIN skills_job_dim ON
 INNER JOIN skills_dim ON
             skills_dim.skill_id = skills_job_dim.skill_id
 WHERE 
-     job_title_short = 'Business Analyst' AND job_work_from_home = TRUE
+     job_title_short = 'Data Analyst' AND job_work_from_home = TRUE
 GROUP BY 
     skills
 ORDER BY 
