@@ -170,4 +170,4 @@ ORDER BY
 - Skills with Higher Salaries: Specialized skills, such as SVN and Solidity, are associated with the highest average salaries, indicating a premium on niche expertise.
 - Optimal Skills for Job Market Value: SQL leads in demand and offers for a high average salary, positioning it as one of the most optimal skills for data analysts to learn to maximize their market value.
 
-### At the end i would say, this project has helped me imprive my SQL skills and how to manage and analyze big data and derive meaningful results from it,apart from that it has also taught me what skills i should be focing on as an aspiring data anlyst.
+### At the end i would say, this project has helped me improve my SQL skills and how to manage and analyze big data and derive meaningful results from it,apart from that it has also taught me what skills i should be focusing on as an aspiring data anlyst.
