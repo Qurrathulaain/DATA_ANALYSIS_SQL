@@ -20,4 +20,5 @@ HAVING
         COUNT(job_postings_fact.job_id) > 10
 ORDER BY
         jobs_in_demand DESC,
-        average_associated_salary DESC;
+        average_associated_salary DESC
+LIMIT 10;
