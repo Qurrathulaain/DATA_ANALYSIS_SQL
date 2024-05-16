@@ -130,7 +130,7 @@ LIMIT 50;
 ```
 ![Top paying skills](https://github.com/Qurrathulaain/DATA_ANALYSIS_SQL/blob/main/assets/Toppayingskills.png)
 
-*Table.Top paying skills with their associated salaries for data analyst role.*
+*Table 1.Top paying skills with their associated salaries for data analyst role.*
 
 ### 5.Optimal skills to learn for the data analyst role.
 In this final query i have combined insights from demand and salary data,to find the skills that are both in high demand and have high salaries, offering a strategic focus for skill development.
@@ -159,7 +159,7 @@ ORDER BY
 ```        
 ![Optimal skills](https://github.com/Qurrathulaain/DATA_ANALYSIS_SQL/blob/main/assets/Optimalskills.png)
 
-*Table.Optimal skills with their associated salaries for data analyst role.* 
+*Table 2.Optimal skills with their associated salaries for data analyst role.* 
 # What I learned 
 ### In this project I have learned how to write complex query using joins and aggregations and CTEs and subquery this project had helped me to understand how real world data and learned how to work with huge data and analyze it to get meaningful insights.
 
