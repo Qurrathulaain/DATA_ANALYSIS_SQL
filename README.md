@@ -42,7 +42,7 @@ ORDER BY
         salary_year_avg DESC
 LIMIT 10;        
 ```
-![Top paying jobs](assets\Top_paying_jobs.png)
+![Top paying jobs](https://github.com/Qurrathulaain/DATA_ANALYSIS_SQL/blob/main/assets/Top_paying_jobs.png)
 *Bar graph visualizing the salary for top paying jobs and this graph was created using microsoft Power BI*
 
 ### 2.Skills for top paying jobs.
